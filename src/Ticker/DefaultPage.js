@@ -4,7 +4,9 @@ const DefaultPage = ({
     min,
     max,
     majorGap,
-    minorGap
+    minorGap,
+    value,
+    setValue
 }) => {
     if (max <= min) {
         return <>max must be greater than min</>
@@ -20,6 +22,9 @@ const DefaultPage = ({
     }
     if (max % majorGap !== 0) {
         return <>max must be a multiple of majorGap</>
+    }
+    if((!value || typeof setValue !== 'function')) {
+        return <>value and setValue props are required</>
     }
 }
 

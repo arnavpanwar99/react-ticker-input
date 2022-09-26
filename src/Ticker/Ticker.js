@@ -61,7 +61,8 @@ const Ticker = ({
         }
     }, [boxRef, min, max, minorGap, majorGap, throttleScroll, throttleTimeout, setValue])
 
-    if (canRenderDefault(min, max, minorGap, majorGap)) return <DefaultPage {...commonProps} />
+    if (canRenderDefault(min, max, minorGap, majorGap, value, setValue)) 
+        return <DefaultPage {...commonProps} setValue={setValue} />
 
     return <section className={[ s.container, containerClassName ].join(' ')}>
         {!hideText ? <div className={[ s.container_text, textClassName ].join(' ')}>
