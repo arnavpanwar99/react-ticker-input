@@ -3,7 +3,7 @@
 **A minimal reactjs package to render a number input with ticker selectors. 🔥🔥**
 
 IMAGE:
-![react ticker input](https://ibb.co/SK2c6n6)
+![react ticker input](https://i.ibb.co/brxF6B6/ezgif-2-51a939519c.gif)
 
 # Live Playground
 To see the react number input in action, click [here.](https://codesandbox.io/p/github/arnavozil/react-ticker-input/draft/goofy-ardinghelli?file=%2FREADME.md)
