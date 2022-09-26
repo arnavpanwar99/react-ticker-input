@@ -46,6 +46,7 @@ $backColor: #3071a9;
 
 .box{
     height: 15vh;
+    min-height: 10rem;
     overflow-x: scroll;
     overflow-y: hidden;
     padding: 0 $ticker-gutter;
