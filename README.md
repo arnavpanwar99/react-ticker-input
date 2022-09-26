@@ -3,7 +3,7 @@
 **A minimal reactjs package to render a number input with ticker selectors. 🔥🔥**
 
 IMAGE:
-![react ticker input](https://mail-attachment.googleusercontent.com/attachment/u/1/s/?view=att&th=18379678b101b39e&attid=0.1&disp=emb&realattid=18379676e158dfd975d1&zw&atsh=1&saddbat=ANGjdJ9ALO0KkYXBDwl8WD0v8Q0yRoGj8wDHP4eudTc7EFQ2iyxPrbCJOb8m0f5AlW1XaAaTir43mVCsUiwQIYuMQZjUfxjxJwswKhM31eJy1JgmIi3duzI6_hmQv_-cyENkQhlzsBZ1colp281Y5b3MFQr1D6oy_LV8lTCCcCzTZWl4GeVQn2yWipVNOcMTx1MlI1SvjqHP72kdXsUM7E6OYGSUu7FKgJnejXN6X9uid2QjEw8OIKEd4JebndNg4bwRBX9MHQjzr0in_kcbp9cxnWG8Yr3hkqyeQVVJR4S8-s_Yzvh70rpokd9Asv3zU_6EJvhWir_Dx8M-kR-tluRN6Af5N0WK1UBX5KXuuhucvQtj1LGR0MHCZh8OpNMmuvsnAVkkAu-sHSRZW2EdhhTmJ4AGTIFrx9JElwT2lxkUw4oqlSsrmKKLTFIItDFc000XOv7sz5C0GRJwZQ1x9ICL0P3zUNBG32XnDZQ9unr8C8Q8L0rIbZPmJkx-IBN7L99xW0ebgG7TS0T9T4m2l8Xq56Rni7z_GDamHILj2_gBSo8_OHAHaEBPAUcJ1pJGkzjxSgCMxCZowKnLL538GkSGRS-XfqmrOZk3Ig_cTlXr_BdUHbszKxrCHiEjS1DRFx8LoMkfXOKjqvMXhupS_HzNmo7uE2z0DM8izURjUOaK5G3h_bgJDjU9j8CPOXtkszbPlLbxSPaR9k9Hw47GXtyqxnTHzA_5q-5yxZ2a2398ZPLwQPTwOBFcUGcqf5fhQIJJFyoffIykR2pqgAdnWMl3P_v52TwWXYGJPiMWiA)
+![react ticker input](https://ibb.co/SK2c6n6)
 
 # Live Playground
 To see the react number input in action, click [here.](https://codesandbox.io/p/github/arnavozil/react-ticker-input/draft/goofy-ardinghelli?file=%2FREADME.md)
@@ -18,7 +18,7 @@ To run that demo on your computer:
 
 # Getting Started
 #### Import Component
-        import { Ticker } from 'react-ticker-input'
+        import Ticker from 'react-ticker-input'
 #### Usage
 This is the minimum code required to get started with react-ticker-input.
 Other required and non-required props are documented below.
