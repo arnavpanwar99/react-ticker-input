@@ -2,7 +2,6 @@
 
 **A minimal reactjs package to render a number input with ticker selectors. 🔥🔥**
 
-IMAGE:
 ![react ticker input](https://i.ibb.co/brxF6B6/ezgif-2-51a939519c.gif)
 
 # Live Playground
