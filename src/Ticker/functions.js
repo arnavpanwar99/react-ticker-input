@@ -5,7 +5,7 @@ export const canRenderDefault = (min, max, minorGap, majorGap, value, setValue) 
         (max - min) % majorGap !== 0 ||
         (majorGap > max) || 
         (max % majorGap !== 0) ||
-        (!value || typeof setValue !== 'function')
+        (typeof value !== 'number' || typeof setValue !== 'function')
     ) return true
     return false
 }
