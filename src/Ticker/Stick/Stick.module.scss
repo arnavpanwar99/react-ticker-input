@@ -55,11 +55,6 @@
                 @include tick();
                 clip-path: polygon(100% 0, 0 0, 50% 100%);
             }
-            // &::after{
-            //     @include tick();
-            //     bottom: 0;
-            //     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
-            // }
         }
 
         &_text{
