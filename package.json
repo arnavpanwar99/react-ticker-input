@@ -1,6 +1,6 @@
 {
   "name": "react-ticker-input",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A minimal reactjs package to render a number input with ticker selectors. 🔥🔥",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
