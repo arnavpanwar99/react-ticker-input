@@ -3,6 +3,7 @@ import DefaultPage from './DefaultPage'
 import { canRenderDefault, throttle } from './functions'
 import InvisibleInput from './InvisibleInput'
 import StickLine from './Stick/StickLine'
+import '../sass/main.scss'
 import s from './Ticker.module.scss'
 
 const Ticker = ({
